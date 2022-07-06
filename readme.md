@@ -1,6 +1,6 @@
 # Finite State Machine
 
-> Example from 
+> Complete code from [Java Finite State Machine](https://www.youtube.com/watch?v=tuVUkquMvZg)
 
 ## Based on this diagram
 
